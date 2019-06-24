@@ -1,5 +1,5 @@
-# My-Trivia
-Trivia game, made by Gal Ben-Tovim, wrote in Java
+# My-Games
+
 
 This folder contains 2 games I created, using Java.
 The folder contains the source code, and 2 more folders. q1 and q2.
